@@ -1,1 +1,1 @@
-Moved to https://github.com/uhlik-bitcoin-development.
+Moved to https://github.com/uhlik-bitcoin-development-bitcoin.
